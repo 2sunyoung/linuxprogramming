@@ -60,7 +60,9 @@ GUI 방식은 통신 데이터량이 많아 속도가 느려질 수 있으므로
 ⑤ rm (Remove) - 파일이나 디렉터리를 삭제한다.<br>
   -r (하위 디렉터리 포함 삭제), -f (강제 삭제)<br><br><br>
 <실행결과><br>
-<img width="3000" height="2399" alt="image" src="https://github.com/user-attachments/assets/0265dcf3-8f3b-477d-9a28-3acb5edbf6ae" />
+<img width="613" height="294" alt="image" src="https://github.com/user-attachments/assets/569ada7c-94c4-48ec-868f-6c38c5868b46" />
+
+
 
 
 
