@@ -52,13 +52,13 @@ GUI 방식은 통신 데이터량이 많아 속도가 느려질 수 있으므로
 리눅스 명령어란 CLI 환경에서 사용자가 운영체제에 특정 작업을 수행하도록 지시하는 단어이다. <br><br>
 중요 명령어는 다음과 같다. <br>
 ① pwd (Print Working Directory) - 현재 작동중인 디렉터리의 절대 경로를 출력한다. <br>
-  -l (상세 정보 표시), -a (숨김 파일 포함 표시)<br>
+⠀⠀-l (상세 정보 표시), -a (숨김 파일 포함 표시)<br>
 ② ls (List Directory Contents) - 현재 위치한 디렉터리 내의 파일 및 폴더 목록을 출력한다. <br>
-  cd Projects (Projects 폴더로 이동), cd .. (상위 폴더로 이동)<br>
+⠀⠀cd Projects (Projects 폴더로 이동), cd .. (상위 폴더로 이동)<br>
 ③ cd (Change Directory) - 작업 디렉터리를 변경하여 다른 폴더로 이동한다.<br>
 ④ mkdir (Make Directory) - 새로운 디렉터리를 생성한다.<br>
 ⑤ rm (Remove) - 파일이나 디렉터리를 삭제한다.<br>
-  -r (하위 디렉터리 포함 삭제), -f (강제 삭제)<br><br>
+⠀⠀-r (하위 디렉터리 포함 삭제), -f (강제 삭제)<br><br>
 <실행결과><br>
 <img width="613" height="294" alt="image" src="https://github.com/user-attachments/assets/569ada7c-94c4-48ec-868f-6c38c5868b46" />
 
