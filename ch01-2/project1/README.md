@@ -58,7 +58,7 @@ GUI 방식은 통신 데이터량이 많아 속도가 느려질 수 있으므로
 ③ cd (Change Directory) - 작업 디렉터리를 변경하여 다른 폴더로 이동한다.<br>
 ④ mkdir (Make Directory) - 새로운 디렉터리를 생성한다.<br>
 ⑤ rm (Remove) - 파일이나 디렉터리를 삭제한다.<br>
-  -r (하위 디렉터리 포함 삭제), -f (강제 삭제)<br><br><br>
+  -r (하위 디렉터리 포함 삭제), -f (강제 삭제)<br><br>
 <실행결과><br>
 <img width="613" height="294" alt="image" src="https://github.com/user-attachments/assets/569ada7c-94c4-48ec-868f-6c38c5868b46" />
 
