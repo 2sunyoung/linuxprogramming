@@ -42,11 +42,11 @@
 프롬프트 문자열에서 문자 ~의 의미를 조사하라.
 
 ## 답
-프롬프트 문자열에서 '~'의 의미는 현재 위치한 작업 디렉터리가 '로그인한 사용자의 홈 디렉터리'임을 나타내는 약어이다.<br>
+프롬프트 문자열에서 `~`의 의미는 현재 위치한 작업 디렉터리가 **'로그인한 사용자의 홈 디렉터리'**임을 나타내는 약어이다.<br>
 예시)<br>
-'linux@DESKTOP-EH0BPJS:~$' → 현재 위치가 홈 디렉터리(/home/linux) 상태<br>
-'linux@DESKTOP-EH0BPJS:/$' → 현재 위치가 시스템 최상위 디렉터리(/) 상태<br>
-'linux@DESKTOP-EH0BPJS:~/dirA$' → 현재 위치가 홈 디렉터리 내부의 dirA 폴더 상태<br>
+  * `linux@DESKTOP-EH0BPJS:~$` → 현재 위치가 홈 디렉터리(/home/linux) 상태<br>
+  * `linux@DESKTOP-EH0BPJS:/$` → 현재 위치가 시스템 최상위 디렉터리(/) 상태<br>
+  * `linux@DESKTOP-EH0BPJS:~/dirA$` → 현재 위치가 홈 디렉터리 내부의 dirA 폴더 상태<br>
 
 ## 문제5
 sh, bash, zsh 셸의 차이를 자세히 조사하시오.
