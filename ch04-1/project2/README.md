@@ -30,4 +30,5 @@ cd ../../../usr/lib/gcc/x86_64-linux-gnu 이다. 마찬가지로 이대도 Tab �
 보고서에 실행화면을 캡쳐 하여 첨부할 것
 
 ## 답
+<img width="791" height="318" alt="image" src="https://github.com/user-attachments/assets/35701427-8e20-43de-baef-f5960653a0f4" />
 
