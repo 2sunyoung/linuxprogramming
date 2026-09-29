@@ -20,17 +20,22 @@ $ find . -name *.txt
 --help 옵션을 사용하여 명령어의 사용법을 출력하는 예제를 만들어보라
 
 ## 답
-cd /usr/lib/gcc/x86_64-linux-gnu 이다. 이때 자동완성 기능을 이용하려면 각 경로의 앞글자를 입력한 후 Tab키를 누르면 된다.<br>
+<img width="761" height="268" alt="image" src="https://github.com/user-attachments/assets/f290acb1-b6d0-4627-babc-171159aa8532" />
+
 
 ## 문제4
 man 명령어로 명령어의 사용법을 출력하는 예제를 만들어보라
 
 ## 답
-cd ../../../usr/lib/gcc/x86_64-linux-gnu 이다. 마찬가지로 이대도 Tab 키를 이용하면 자동완성 기능을 활용할 수 있다. <br>
+<img width="359" height="33" alt="image" src="https://github.com/user-attachments/assets/ab7d6429-c0dd-474b-b14f-68154a9d790f" /> <br>
+
+<img width="973" height="852" alt="image" src="https://github.com/user-attachments/assets/dcd1e250-d798-49cf-ae9a-6bb7c6cbd0cb" />
+
 
 ## 문제5
 cd, ls, cp, rm, ifconfig 명령어의 실행파일이 존재하는 경로를 조사하라.
 
 ## 답
-<img width="791" height="318" alt="image" src="https://github.com/user-attachments/assets/35701427-8e20-43de-baef-f5960653a0f4" />
+<img width="558" height="80" alt="image" src="https://github.com/user-attachments/assets/47041bab-3fa0-4557-b6ab-d7e370e5e114" />
+
 
