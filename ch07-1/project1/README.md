@@ -12,4 +12,5 @@ ls명령어로 생성 확인 후 cat 명령어로 작성한 파일의 내용을 
 모든 실행결과를 첨부하라.<br>
 
 ## 답
+<img width="386" height="196" alt="image" src="https://github.com/user-attachments/assets/c1899524-af3a-4795-9793-6b8fc864a2ee" />
 
