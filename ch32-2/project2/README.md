@@ -13,8 +13,6 @@ mylib.cpp<br>
 <br><br>
 main.cpp<br>
 <img width="854" height="405" alt="image" src="https://github.com/user-attachments/assets/8e05650b-c0fc-4b3e-bcb6-e41ec663ec19" />
-
-
 <br><br>
 <실행 화면><br>
 <img width="278" height="220" alt="image" src="https://github.com/user-attachments/assets/369a756a-39ea-4cbc-909b-462d64db2884" />
