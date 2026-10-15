@@ -12,10 +12,11 @@
 
 ## 답
 mylib.h<br>
-<img width="592" height="280" alt="image" src="https://github.com/user-attachments/assets/ed18ab41-ae60-451d-98d1-fa257bb47dca" /><br><br>
+<img width="531" height="291" alt="image" src="https://github.com/user-attachments/assets/e90d2ff7-182b-4685-861f-0ef4b512a65c" /><br><br>
 mylib.c<br>
-<img width="763" height="509" alt="image" src="https://github.com/user-attachments/assets/36f4e5a7-b55f-4d9e-ab2b-34b04fb1385d" /><br><br>
+<img width="729" height="506" alt="image" src="https://github.com/user-attachments/assets/d387caa0-6fc9-4885-a554-02704ae7a4ad" /><br><br>
 main.c<br>
-<img width="553" height="280" alt="image" src="https://github.com/user-attachments/assets/7d4fcfa7-32ce-4e51-b50e-a9f4cb704c44" /><br><br>
+<img width="522" height="270" alt="image" src="https://github.com/user-attachments/assets/f4506e40-013c-4363-8a20-1bd9bdd1f05b" /><br><br>
 <실행 화면><br>
-<img width="273" height="151" alt="image" src="https://github.com/user-attachments/assets/278c65c1-da55-4ddb-bbb0-48f3775f3055" />
+<img width="317" height="142" alt="image" src="https://github.com/user-attachments/assets/05f985e4-9efd-471c-91e6-ea56255146c8" />
+
