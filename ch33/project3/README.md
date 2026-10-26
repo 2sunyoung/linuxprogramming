@@ -9,10 +9,10 @@
 mylib.hpp <br>
 <img width="424" height="261" alt="image" src="https://github.com/user-attachments/assets/df13096b-508e-4ec4-8f11-0c531556633b" />
  <br><br>
-mylib.c<br>
+mylib.cpp<br>
 <img width="546" height="506" alt="image" src="https://github.com/user-attachments/assets/12d466ec-5878-44ea-af8f-4a9841d1b529" />
 <br><br>
-main.c<br>
+main.cpp<br>
 <img width="404" height="261" alt="image" src="https://github.com/user-attachments/assets/85418d74-7350-4514-873d-e8b82c741e86" />
 <br><br>
 프로젝트 디렉터리 cppproj3를 생성하고 디렉터리 아래에 파일을 저장<br>
