@@ -16,11 +16,13 @@ mylib.hpp<br>
 
 <br><br>
 main.cpp<br>
-<img width="416" height="261" alt="image" src="https://github.com/user-attachments/assets/b0c2638b-328a-4580-bc06-60f904819719" />
+<img width="407" height="263" alt="image" src="https://github.com/user-attachments/assets/f86c898e-5ea1-482e-8a6c-b5664d6742b9" />
+
 
 <br><br>
 Makefile<br>
-<img width="504" height="401" alt="image" src="https://github.com/user-attachments/assets/bc299cf6-be71-4930-bae3-f07b8ca84094" />
+<img width="529" height="404" alt="image" src="https://github.com/user-attachments/assets/f65e68f9-0ef4-4100-90f2-5c0851c671a3" />
+
 
 
 <실행 결과><br>
